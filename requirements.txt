@@ -1,0 +1,7 @@
+opencv-python
+flask
+datetime
+numpy
+scikit-learn
+pandas
+joblib
